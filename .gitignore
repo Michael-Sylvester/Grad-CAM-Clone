@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtualenv
+.venv/
+env/
+venv/
+/.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data, models and large artifacts
+data/
+datasets/
+models/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Outputs: ignore everything by default but keep smoke-test visuals
+outputs/
+!outputs/pascal_smoke/
+!outputs/pascal_smoke/**
+
+# Logs
+logs/
+*.log
+
+# OS / editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key

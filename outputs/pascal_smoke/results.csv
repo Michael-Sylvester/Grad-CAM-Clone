@@ -1,0 +1,11 @@
+image_id,saved_heatmap,class_index,class_score,pointing_hit,deletion_auc,viz_path
+000005.jpg,outputs/pascal_smoke\000005_cls762.png,762,0.18570144474506378,0,0.050596068620325244,outputs\pascal_smoke\visuals\000005_viz.png
+000007.jpg,outputs/pascal_smoke\000007_cls511.png,511,0.9290123581886292,1,0.3438527225495818,outputs\pascal_smoke\visuals\000007_viz.png
+000009.jpg,outputs/pascal_smoke\000009_cls456.png,456,0.21379819512367249,0,0.02542583306785673,outputs\pascal_smoke\visuals\000009_viz.png
+000016.jpg,outputs/pascal_smoke\000016_cls870.png,870,0.5734513998031616,1,,outputs\pascal_smoke\visuals\000016_viz.png
+000019.jpg,outputs/pascal_smoke\000019_cls285.png,285,0.41215625405311584,1,,outputs\pascal_smoke\visuals\000019_viz.png
+000020.jpg,outputs/pascal_smoke\000020_cls817.png,817,0.48432037234306335,1,,outputs\pascal_smoke\visuals\000020_viz.png
+000021.jpg,outputs/pascal_smoke\000021_cls608.png,608,0.21426238119602203,1,,outputs\pascal_smoke\visuals\000021_viz.png
+000024.jpg,outputs/pascal_smoke\000024_cls733.png,733,0.39343497157096863,0,,outputs\pascal_smoke\visuals\000024_viz.png
+000030.jpg,outputs/pascal_smoke\000030_cls880.png,880,0.946647584438324,1,,outputs\pascal_smoke\visuals\000030_viz.png
+000039.jpg,outputs/pascal_smoke\000039_cls527.png,527,0.34127095341682434,0,,outputs\pascal_smoke\visuals\000039_viz.png
